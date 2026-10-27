@@ -1,0 +1,15 @@
+# Git files
+.git
+.gitignore
+
+# Environment secrets
+.env
+.env.*
+
+# Build artifacts
+bin/
+tmp/
+coverage/
+
+# Optional example environment file
+!.env.example
